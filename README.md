@@ -1,2 +1,2 @@
-# Challenge1Plan
+# Challenge1Plane
 Plane Challenge 1
